@@ -1,4 +1,4 @@
-# 🧠 SQL Business Intelligence Case Study – Retail Data Analysis (Feb 2024)
+# 🧠 SQL Business Intelligence Case Study – Retail Data Analysis (Jan 2025)
 
 This project showcases a **real-world SQL case study** involving data analysis over three structured tables: `FACT`, `PRODUCT`, and `LOCATION`. The goal is to derive business insights from sales, marketing, and inventory data using core and advanced SQL techniques.
 
