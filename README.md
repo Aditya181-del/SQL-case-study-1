@@ -46,6 +46,16 @@ This project demonstrates **SQL-driven business intelligence** using structured 
 
 ---
 
+## 📎 About Me
+I’m **Aditya Tirakapadi**, a student of AI & Data Science with interests in data visualization, trend analysis, and business insights from real-world datasets.
+
+- 💼 [GitHub](https://github.com/Aditya181-del)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-tirakapadi-90a38b26b/)  
+
+---
+
+⭐ If you find this project helpful, please **star** the repo or fork it for your own exploration!
+
 ## 💡 Example Queries
 ```sql
 -- Total profit from Colorado
